@@ -1,6 +1,0 @@
-com\mycollege\controller\LoginController.class
-com\mycollege\model\Customer.class
-com\mycollege\controller\CustomerRegisterController.class
-com\mycollege\controller\ListCustomersController.class
-com\mycollege\model\CustomerDao.class
-com\mycollege\util\HibernateUtil.class
